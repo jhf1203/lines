@@ -8,8 +8,7 @@ import LakeNorman from "./pages/LakeNorman"
 function App() {
   return (
     <div className="App">
-      <Router
-      >
+      <Router basename="/lines">
       <div>
         <Route exact path="/" component={Main} />
         <Route exact path="/lakenorman" component={LakeNorman} />
