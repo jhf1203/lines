@@ -1,0 +1,467 @@
+body {
+  margin: 0;
+  font-family: 'Assistant', sans-serif;
+  font-weight: 300;
+  background-color: #f1f1ef
+}
+
+header {
+  text-align: left;
+}
+
+h1 {
+  width: 100%;
+  text-align: left;
+  color: #635d4e;
+  font-size:30px;
+  font-weight: 300;
+  margin-left:1.5%
+}
+
+a {
+  color: white
+}
+
+a:hover {
+  color: white;
+  font-weight:400;
+  text-decoration: none!important
+}
+
+.kw-bkgd {
+  background-image: url("./assets/main/buttons/kw-wallpaper.jpg")
+}
+
+/* Header */
+
+.navbar-brand {
+  width: 100%;
+  border-bottom: 1px solid #635d4e;
+}
+
+/* Main Page */
+
+.quote-row {
+  margin-top: 3%;
+}
+
+.main-row {
+  margin-top: 3%;
+}
+
+.wip-txt {
+  font-size: 60px;
+  font-weight:200;
+  margin-bottom:0
+}
+
+.quote-col {
+  background-image: url("./assets/main/farnsworth.jpg");
+  height: 375px;
+  border: 1px solid #635d4e;
+  border-radius:5px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.quote-script {
+  font-size: 31px;
+  text-align: justify;
+  color: #635d4e;
+  font-weight:200;
+  padding-top: 12%;
+  padding-left: 5%;
+  padding-right: 5%;
+  
+}
+
+.quote-attribution {
+  margin-left: 33%
+}
+
+.section-divider {
+  border-top: 1px solid #635d4e;
+  border-bottom: 1px solid #635d4e;
+  padding-left: 0;
+  padding-right: 0
+}
+
+.col-md-6 {
+  text-align: center
+}
+
+.project-btn {
+  border: 1px solid #635d4e;
+  border-radius: 5px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+  width: 66%;
+  height: 100px;
+  background-size: 100%
+}
+
+.project-btn:hover {
+  border: 3px solid #635d4e;
+}
+
+.project-btn:hover p {
+  font-weight: 400;
+  text-decoration: none!important
+}
+
+.project-norman {
+  background-image: url("./assets/main/buttons/lake-norman.png");
+}
+
+.project-wake {
+  background-image:url("./assets/main/buttons/wake-county.jpg")
+}
+
+.project-quorum {
+  background-image: url("./assets/main/buttons/quorum.jpg")
+}
+
+.project-southslope {
+  background-image: url("./assets/main/buttons/south-slope.jpg")
+}
+
+.project-name {
+  color: #635d4e;
+  font-size: 35px;
+  margin-top: 6%;
+  font-weight: 200
+}
+
+.project-name:hover {
+  text-decoration: none!important
+}
+
+/* Project Pages */
+
+.project-menu-col, .project-content-col {
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.menu-spacing-row {
+  height: 120px;
+  border-bottom: 1px solid #635d4e;
+  background-image: url("./assets/main/buttons/kw-wallpaper.jpg")
+}
+
+.menu-heading-row {
+  height: 89px;
+  border-bottom: 1px solid #635d4e;
+  background-color: white
+}
+
+.menu-text {
+  font-weight: 200;
+  font-size: 40px;
+  width: 100%;
+  padding-top: 9%;
+  padding-right: 40%;
+}
+
+.menu-row {
+  padding-top:4%;
+  padding-bottom:4%;
+  padding-left: 8%;
+  background-color: #635d4e
+}
+
+.menu-row-top {
+  padding-top: 8%;
+  padding-bottom: 4%
+}
+
+.menu-row-bottom {
+  padding-bottom: 16px;
+}
+
+.menu-spacing-row-bottom{
+  border-top: 1px solid #635d4e;
+  background-color: #635d4e
+}
+
+.project-menu-col {
+  background-color: white;
+  border: 1px solid #635d4e;
+  border-radius: 5px;
+}
+
+.project-title-text {
+  transform: rotate(-90deg);
+  font-weight: 300;
+  font-size: 60px;
+  height: 100%;
+}
+
+.story-menu-text {
+  width: 100%;
+  margin: 0px, 0px, 0px, 0px;
+  text-align: center;
+}
+
+/* Project Col Components */
+
+.content-title {
+  font-weight: 300;
+  font-size: 50px;
+  width: 100%;
+  padding-top: 2%
+}
+
+.content-subtitle {
+  font-weight: 300;
+  font-size: 12px
+}
+
+.content-container {
+  width: 90%;
+}
+.project-row {
+  margin-top: 3%
+}
+
+.project-content-col {
+  background-color: white;
+  border: 1px solid #635d4e;
+  border-radius: 5px;
+  overflow-y: scroll;
+}
+
+.content-heading {
+  border-top: 1px solid #635d4e;
+  border-bottom: 1px solid #635d4e;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-weight: 200;
+  font-size: 40px
+}
+
+.imported-sketch {
+  width: 90%;
+  height: 90%
+}
+
+.sub-section {
+  border: 1px solid #635d4e;
+  border-radius: 5px;
+  margin-top:3%;
+  margin-bottom: 3%;
+  height:66%;
+  width: 66%
+}
+
+.content-detail {
+  margin-left:16%
+}
+
+.content-detail p {
+  padding-left:5%;
+  padding-right: 5%;
+  text-align: justify;
+}
+
+.first-p {
+  padding-top: 5%;
+  margin-top: 5%;
+  border-top: 1px solid #635d4e;
+}
+
+.last-p {
+  padding-bottom: 2%;
+}
+
+.content-subheading {
+  width: 100%;
+  border-bottom: 1px solid #635d4e;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-image: url("./assets/main/buttons/kw-wallpaper.jpg");
+  font-size: 25px;
+  font-weight:200;
+}
+
+/* Detail Page-specific styling */
+
+.palette-row {
+  border-bottom: 1px solid #635d4e;
+  padding-bottom: 2%
+}
+.palette-text {
+  text-align: justify;
+  padding-top: 2%;
+  padding-left: 7%
+}
+
+.material-intro-row {
+  margin-top: 2%;
+  padding-left: 1%
+}
+
+.material-intro-text {
+  text-align: justify
+}
+.cerused-oak {
+  margin-left: 20%;
+}
+
+.chalk {
+  margin-left: 12%;
+}
+
+.cerused-oak-subtitle {
+  margin-left: 32%;
+}
+
+.chalk-subtitle {
+  margin-left: 34%
+}
+
+.top-material-row {
+  padding-top: 3%;
+  border-top: 1px solid #635d4e
+}
+.material-img {
+  border: 1px solid #635d4e;
+  border-radius: 5px
+}
+
+/* Room Content Page */
+.room-selector-heading {
+  width: 100%;
+  text-align: center;
+  padding-top:1%;
+  font-size: 40px;
+  font-weight: 200
+}
+
+.selector-options-row {
+  border-bottom: 1px solid #635d4e
+}
+
+.room-list {
+  padding-left:0;
+  width: 100%;
+  text-align: center
+}
+
+.room-link {
+  color: #635d4e;
+}
+
+.fp-sketch {
+  margin-top:3%;
+  margin-bottom:3%;
+  margin-left: 25%
+  
+}
+
+.room-selector-heading {
+  margin-bottom: 2%;
+}
+
+.border-right-col {
+  border-right: 1px solid #635d4e
+}
+
+.room-selector-row {
+  border-top: 1px solid #635d4e;
+  border-bottom: 1px solid #635d4e
+}
+
+.last-room-row {
+  border-bottom: 1px solid #635d4e;
+}
+
+/* Universal RoomDetailComp properties */
+
+.selection-row {
+  margin-top: 3%
+}
+
+.selection-title {
+  text-align: center;
+  font-size: 24px;
+  width: 100%;
+  text-decoration: underline;
+  margin-bottom: 3%;
+  padding-left: 3%;
+  padding-right: 3%
+
+}
+
+.selection-col {
+  padding-left: 3%;
+  padding-right: 3%;
+  object-fit: cover
+}
+
+.selection-desc {
+  text-align: justify;
+  padding-right: 3%;
+  padding-left: 3%
+}
+
+.info-text {
+  font-size: 14px;
+  width: 100%;
+  text-align: center
+}
+
+.selection-img {
+  border: 1px solid #635d4e;
+  object-fit: cover
+}
+
+.img-contain {
+  object-fit: contain
+}
+
+.selection-bottom-row {
+  margin-top:2%;
+}
+
+.img-dual {
+  margin-bottom: 5%
+}
+
+.dwr-img {
+  padding: 7%;
+  background-color: #F9F9F9
+}
+
+/* Foyer Styling */
+
+.normanfoyer-row1 {
+  height:500px
+
+
+}
+
+/* Footer */
+
+.sticky-bottom {
+  height: 40px;
+  margin-top: 3%;
+  border: 1px solid #635d4e
+}
+
+
+@media only screen and (max-width: 600px) {
+  .mobile-divider {
+    border-bottom: 2px solid #635d4e;
+    margin-bottom: 3%;
+    padding-bottom: 3%;
+  }
+}
