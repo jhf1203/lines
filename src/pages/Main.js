@@ -46,9 +46,11 @@ function Main() {
         <div className="row main-row">
             <div className="col-md-2"></div>
             <div className="col-md-4 justify-content-center">
-                <div className="btn project-btn project-quorum">
-                <p className="project-name">Quorum Center</p>
-                </div>
+                <Link to="/quorum">
+                    <div className="btn project-btn project-quorum">
+                        <p className="project-name">Quorum Center</p>
+                    </div>
+                </Link>
             </div>
             <div className="col-md-4 justify-content-center">
                 <div className="btn project-btn project-southslope">

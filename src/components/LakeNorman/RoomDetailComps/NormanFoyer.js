@@ -51,7 +51,7 @@ function NormanFoyer () {
             </div>
             <div className="row selection-row ">
                 <div className="col-md-4 selection-col">
-                    <img className="selection-img img-contain" src="https://images.hermanmiller.group/m/6a27bf88b3d755a5/W-PD_2195376_MATERIAL_fabric_UPHOLSTERY_pebble_weave_COLOR_buff-jpg.png?blend-mode=darken&blend=f8f8f8&trim-color=ffffff&trim=color&bg=f8f8f8&auto=format&w=1200&q=68&h=1000" alt="True" height="100%" width="100%" />
+                    <img className="selection-img img-contain dwr-img" src="https://images.hermanmiller.group/m/6a27bf88b3d755a5/W-PD_2195376_MATERIAL_fabric_UPHOLSTERY_pebble_weave_COLOR_buff-jpg.png?blend-mode=darken&blend=f8f8f8&trim-color=ffffff&trim=color&bg=f8f8f8&auto=format&w=1200&q=68&h=1000" alt="True" height="100%" width="100%" />
                 </div>
                 <div className="col-md-8 selection-col mobile-divider">
                     <div className="row">
