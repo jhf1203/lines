@@ -2,6 +2,8 @@ import { React, useState } from "react"
 
 import QuorumContentMain from "../components/Quorum/QuorumContentMain"
 import QuorumContentHomeSite from "../components/Quorum/QuorumContentHomeSite"
+import QuorumContentPlans from "../components/Quorum/QuorumContentPlans"
+
 import Footer from "../components/Footer"
 import Header from "../components/Header"
 import WIP from "../components/WIP"
@@ -29,7 +31,7 @@ function Quorum() {
             column = <WIP />
             break;
         case "plans" :
-            column = <WIP />
+            column = <QuorumContentPlans />
             break;
         case "palette" :
             column = <WIP />
