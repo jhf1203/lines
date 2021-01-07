@@ -62,9 +62,6 @@ function Quorum() {
                             <a href="#" id="homesite" onClick={handleContentClick}>Home Site</a>
                         </div>
                         <div className="row menu-row"> 
-                            <a href="#" id="architecture" onClick={handleContentClick}>Architectural Details</a>
-                        </div>
-                        <div className="row menu-row"> 
                             <a href="#" id="plans" onClick={handleContentClick}>Site Plans</a>
                         </div>
                         <div className="row menu-row"> 

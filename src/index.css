@@ -28,6 +28,10 @@ a:hover {
   text-decoration: none!important
 }
 
+p {
+  text-align: justify
+}
+
 .kw-bkgd {
   background-image: url("./assets/main/buttons/kw-wallpaper.jpg")
 }
@@ -439,6 +443,16 @@ a:hover {
 .dwr-img {
   padding: 7%;
   background-color: #F9F9F9
+}
+
+.fp-dual {
+  margin-bottom: 5%;
+  padding-right:3%
+}
+
+.spacer-row {
+  margin-top:2%;
+  margin-bottom:2%
 }
 
 /* Foyer Styling */
