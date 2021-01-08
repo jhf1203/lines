@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lines/static/css/main.05abadc5.chunk.css",
-    "main.js": "/lines/static/js/main.a5b06ee9.chunk.js",
-    "main.js.map": "/lines/static/js/main.a5b06ee9.chunk.js.map",
+    "main.css": "/lines/static/css/main.d8c35cc1.chunk.css",
+    "main.js": "/lines/static/js/main.67fe852d.chunk.js",
+    "main.js.map": "/lines/static/js/main.67fe852d.chunk.js.map",
     "runtime-main.js": "/lines/static/js/runtime-main.6bacf778.js",
     "runtime-main.js.map": "/lines/static/js/runtime-main.6bacf778.js.map",
-    "static/js/2.e3cbdcda.chunk.js": "/lines/static/js/2.e3cbdcda.chunk.js",
-    "static/js/2.e3cbdcda.chunk.js.map": "/lines/static/js/2.e3cbdcda.chunk.js.map",
+    "static/js/2.3a7791f3.chunk.js": "/lines/static/js/2.3a7791f3.chunk.js",
+    "static/js/2.3a7791f3.chunk.js.map": "/lines/static/js/2.3a7791f3.chunk.js.map",
     "static/js/3.bf5b32a0.chunk.js": "/lines/static/js/3.bf5b32a0.chunk.js",
     "static/js/3.bf5b32a0.chunk.js.map": "/lines/static/js/3.bf5b32a0.chunk.js.map",
     "index.html": "/lines/index.html",
-    "static/css/main.05abadc5.chunk.css.map": "/lines/static/css/main.05abadc5.chunk.css.map",
-    "static/js/2.e3cbdcda.chunk.js.LICENSE.txt": "/lines/static/js/2.e3cbdcda.chunk.js.LICENSE.txt",
+    "static/css/main.d8c35cc1.chunk.css.map": "/lines/static/css/main.d8c35cc1.chunk.css.map",
+    "static/js/2.3a7791f3.chunk.js.LICENSE.txt": "/lines/static/js/2.3a7791f3.chunk.js.LICENSE.txt",
     "static/media/NMN.2a816f76.png": "/lines/static/media/NMN.2a816f76.png",
     "static/media/a-1-clw-dove.8945b9b4.jpeg": "/lines/static/media/a-1-clw-dove.8945b9b4.jpeg",
     "static/media/a-2-clw-fog.694ca8f7.jpeg": "/lines/static/media/a-2-clw-fog.694ca8f7.jpeg",
@@ -52,16 +52,20 @@
     "static/media/living.4a4ef5f0.png": "/lines/static/media/living.4a4ef5f0.png",
     "static/media/lounge.7ff1881d.png": "/lines/static/media/lounge.7ff1881d.png",
     "static/media/master.963a46bb.png": "/lines/static/media/master.963a46bb.png",
+    "static/media/new-plans.5502631e.png": "/lines/static/media/new-plans.5502631e.png",
+    "static/media/original-plans.2709768b.png": "/lines/static/media/original-plans.2709768b.png",
     "static/media/palette.91e3f75b.png": "/lines/static/media/palette.91e3f75b.png",
+    "static/media/quorum-hover.50298a3e.jpg": "/lines/static/media/quorum-hover.50298a3e.jpg",
     "static/media/rear-elevation-sketch.d59d4e98.png": "/lines/static/media/rear-elevation-sketch.d59d4e98.png",
     "static/media/rear-elevation-tech.9a7d4c36.png": "/lines/static/media/rear-elevation-tech.9a7d4c36.png",
+    "static/media/revised-plans.361736d1.png": "/lines/static/media/revised-plans.361736d1.png",
     "static/media/utils.134dce1f.png": "/lines/static/media/utils.134dce1f.png",
     "static/media/wetbar.9193bd27.png": "/lines/static/media/wetbar.9193bd27.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6bacf778.js",
-    "static/js/2.e3cbdcda.chunk.js",
-    "static/css/main.05abadc5.chunk.css",
-    "static/js/main.a5b06ee9.chunk.js"
+    "static/js/2.3a7791f3.chunk.js",
+    "static/css/main.d8c35cc1.chunk.css",
+    "static/js/main.67fe852d.chunk.js"
   ]
 }
