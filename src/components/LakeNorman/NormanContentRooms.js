@@ -151,7 +151,7 @@ switch (nameState) {
         componentToShow = <WIP />
         break;
     default: 
-        componentToShow = <WIP />
+        componentToShow = ""
     }
     
 

@@ -137,7 +137,9 @@ p {
   color: #635d4e;
   font-size: 35px;
   margin-top: 6%;
-  font-weight: 200
+  font-weight: 200;
+  text-align: center;
+  width: 100%
 }
 
 .project-name:hover {
