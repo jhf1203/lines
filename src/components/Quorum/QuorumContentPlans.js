@@ -38,12 +38,16 @@ function QuorumContentPlans () {
                 <div className="col-md-4 selection-col">
                     <p>Here is an enlarged view of the residence's floorplan.  The main entrance to this residence can be seen in the middle of the sketch.  It offers the primary resident quick access to the master suite located in the top left, or the visitor access to the common areas on the bottom or one of the guest suites on the right. </p>
                     <p>A large kitchen divides the two primary common spaces, boasting a 16-foot island/bar and a large pantry converted from an old bathroom.  Facing East, the family room on the bottom right and the dining area on the bottom left both offer 180 degree views of Raleigh's skyline.  A secondary living area next to the master suite is from a converted third bedroom, divided from the dining area by a balcony and a wine vault made from a converted third bath.</p>
-                    </div>
-                    <p>There are three secondary bedrooms.  On the top left is a full guest suite with its own bath, which is almost the entirety of what was once a one-bedroom condo.  It's situated farthest from everything else in the home for privacy, similar to how the master suite is situated on the top left.</p>
+                </div>     
+            </div>
+            <div className="row material-intro-row">
+                <div className="col-md-12 selection-col">
+                <p>There are three secondary bedrooms.  On the top left is a full guest suite with its own bath, which is almost the entirety of what was once a one-bedroom condo.  It's situated farthest from everything else in the home for privacy, similar to how the master suite is situated on the top left.</p>
                     <p>Two additional bedrooms divide the family room from the guest suite.  The top one is intended to be a child's room or nursery, offering plenty of open space for recreation and being the closest to the shared bath.  The fourth (spare) bedroom is used the least, hence it sits directly next to the family room.  What was once a dedicated bathroom for this room has been converted into a spacious laundry/utility space.</p>
                     <p>Finally, much functionality was added to the guest bed hallway by simply removing two 54" sections of drywall.  What was once a small bathroom and a utility closet now has 200 square feet of flex space, including 30 linear feet of new wall space.  In this instance, it's the perfect size for an office space and library.</p>
                     <p>Overall the modifications made to create this residence succeeded in making the home spacious enough to break the stigma of a downtown condo, open enough to take in the beautiful city view from almost every room in the property, compartmentalized enough to feel like a cozy home, and most importantly functional enough to feel like it was designed this way from the beginning.</p>
                 </div>
+            </div>
             
         </div>
     )

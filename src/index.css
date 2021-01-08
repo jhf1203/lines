@@ -56,7 +56,9 @@ p {
 .wip-txt {
   font-size: 60px;
   font-weight:200;
-  margin-bottom:0
+  margin-bottom:0;
+  width: 100%;
+  text-align: center
 }
 
 .quote-col {
@@ -226,7 +228,9 @@ p {
 
 .content-subtitle {
   font-weight: 300;
-  font-size: 12px
+  font-size: 12px;
+  width: 100%;
+  text-align: center
 }
 
 .content-container {
@@ -327,11 +331,11 @@ p {
 }
 
 .cerused-oak-subtitle {
-  margin-left: 32%;
+  margin-left: 7%;
 }
 
 .chalk-subtitle {
-  margin-left: 34%
+  margin-right: 6%
 }
 
 .top-material-row {

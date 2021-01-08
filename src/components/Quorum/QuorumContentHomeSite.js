@@ -7,7 +7,11 @@ function QuorumContentHomeSite () {
     return (
         <div>
           <h3 className="content-heading">Home Site</h3>
-          <p>When the 15-story Quorum Center opened on Jones Street in 2007, its luxury condominiums and new offices brought a touch of elegance to downtown Raleigh.  It also brought to reality what urban advocates had been pushing for years: mixed-use development with residences above offices or retail space.</p>
+          <div className="row selection-row">
+                <div className="col-md-12 selection-col">
+                    <p>When the 15-story Quorum Center opened on Jones Street in 2007, its luxury condominiums and new offices brought a touch of elegance to downtown Raleigh.  It also brought to reality what urban advocates had been pushing for years: mixed-use development with residences above offices or retail space.</p>
+                </div>
+          </div>
           <div className="row selection-row">
               <div className="col-md-5 selection-col">
                   <p>The fire that ravaged the adjacent construction site of the Metropolitan apartments in 2017 did indeed affect the Quorum center, costing upwards of $15M to repair.  As they say though, when one door closes another door opens.  Repairs lead to renovations, which is oftentimes a project of reimagination.  This is our reimagination.</p>
