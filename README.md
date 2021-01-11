@@ -1,4 +1,4 @@
-# readMe Generator
+# Streak & Shade
 
 ![](https://img.shields.io/badge/License-MIT-yellowgreen)
       
